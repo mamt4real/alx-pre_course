@@ -1,1 +1,1 @@
-folder for my coding exercise
+Folder for my coding exercise
